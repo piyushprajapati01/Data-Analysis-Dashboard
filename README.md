@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive data analysis project in Microsoft Excel, where I created multiple interactive dashboards and structured tables to analyze and visualize business data effectively.
+Food-Delivery-Dashboard
+Interactive Dashboard creation using MS Excel
+Project Objective
+The Food Delivery data project aims to create an annual orders report for 2024. So that the business owner can understand regional performance, top restaurants, and popular food items to grow more orders in 2025.
