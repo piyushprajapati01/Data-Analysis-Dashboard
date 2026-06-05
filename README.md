@@ -35,3 +35,6 @@ Dashboard Interaction -<a href ="https://github.com/piyushprajapati01/Data-Analy
 
 ##Final Conclusion:
 To improve the overall order volume of the Food Delivery business, a focused marketing strategy should target the South and West regions which already show high demand. Restaurants like MasalaBox and YummyStop should introduce combo offers and discounts to increase their order share. The top-selling items — Biryani, Burger, and Pizza — should be promoted heavily on Swiggy, Zomato, and Amazon channels. Expanding the menu variety in the North region, which currently has the lowest share, can help balance regional performance and drive overall business growth.
+
+##Dashboard
+<img width="1223" height="698" alt="Food_Delivery_Dashboard_Screenshot " src="https://github.com/user-attachments/assets/92a51e9a-2c79-466f-94e9-8b2727c0e8f7" />
